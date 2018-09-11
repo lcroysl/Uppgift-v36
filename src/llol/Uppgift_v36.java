@@ -27,6 +27,8 @@ public class Uppgift_v36 {
 		System.out.println("Post code: " + post);
 		System.out.println("City: " + city);
 		System.out.println("Phone number: " + number);
+		
+		input.close();
 
 	}
 
