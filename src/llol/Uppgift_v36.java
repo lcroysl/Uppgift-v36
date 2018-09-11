@@ -9,6 +9,8 @@ public class Uppgift_v36 {
 		
 		System.out.println("What is your name?");
 		String name = input.nextLine();
+		System.out.println("What is your age?");
+		String age = input.nextLine();
 		
 
 	}
